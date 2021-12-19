@@ -28,9 +28,11 @@ Algorithm receive sensor data with 16hz frequency and, with condition that it ha
 15 seconds of data, makes prediction on one time series
 
 ## Experiment 
-Demonstration how algorithm can work with line by line input 
+Demonstration how algorithm can work with line by line input
+
 start experiment - `python experiment.py`
-model can be found [here](https://drive.google.com/file/d/1-SYOkcW7XcmsHZMVSmP44y5pH5GloPZ3/view?usp=sharing)
+
+model for experiment can be found [here](https://drive.google.com/file/d/1-SYOkcW7XcmsHZMVSmP44y5pH5GloPZ3/view?usp=sharing)
 
 It saves results of experiment in `.json` file with 
 `
